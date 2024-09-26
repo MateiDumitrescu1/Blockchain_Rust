@@ -1,2 +1,4 @@
 # Blockchain_Rust
-Blockchain in Rust
+### How to run the Blockchain
+`cargo run`
+### Left to do 
