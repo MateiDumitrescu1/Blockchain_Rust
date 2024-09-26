@@ -1,6 +1,6 @@
 # Rust Blockchain Project
 
-Welcome to the **Rust Blockchain Project**! This project is a simple implementation of a blockchain in Rust, designed for educational purposes to demonstrate the core concepts behind blockchain technology.
+Welcome to the **Rust Blockchain Project**! This project is a simple implementation of a blockchain in Rust, designed for learning purposes.
 
 ## Table of Contents
 
