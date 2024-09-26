@@ -84,55 +84,13 @@ Welcome to the **Rust Blockchain Project**! This project is a simple implementat
 
 Run the application using Cargo:
 
-bash
-
-Copiază codul
-
 `cargo run`
-
-**Expected Output:**
-
-yaml
-
-Copiază codul
-
-`Starting the miner... Block mined: 00a7f3e5a1e1f5d2b9e1d2c4... Balance of Miner1: 100 Is blockchain valid? true`
-
----
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-1. **Fork the Project**
     
-2. **Create a Feature Branch**
-    
-    bash
-    
-    Copiază codul
-    
-    `git checkout -b feature/YourFeature`
-    
-3. **Commit Your Changes**
-    
-    bash
-    
-    Copiază codul
-    
-    `git commit -m "Add Your Feature"`
-    
-4. **Push to the Branch**
-    
-    bash
-    
-    Copiază codul
-    
-    `git push origin feature/YourFeature`
-    
-5. **Open a Pull Request**
-    
-
 ---
 
 ## License
