@@ -63,17 +63,11 @@ Welcome to the **Rust Blockchain Project**! This project is a simple implementat
 
 1. **Clone the Repository**
     
-    bash
-    
-    Copiază codul
     
     `git clone https://github.com/your_username/my_blockchain_project.git cd my_blockchain_project`
     
 2. **Build the Project**
     
-    bash
-    
-    Copiază codul
     
     `cargo build`
     
