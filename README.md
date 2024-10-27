@@ -1,5 +1,5 @@
 # Rust Blockchain Project
-
+# NOTE!!! THIS PROJECT WAS MOVED TO https://github.com/MateiDumitrescu1/blocknet.chain
 Welcome to the **Rust Blockchain Project**! This project is a simple implementation of a blockchain in Rust, designed for learning purposes.
 
 ## Table of Contents
